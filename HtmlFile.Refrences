@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>References and Resources</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>References and Resources</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="topic1.html">The First Web Browser</a></li>
+        <li><a href="topic2.html">Evolution of Web Browsers</a></li>
+        <li><a href="resources.html">References and Resources</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>References</h2>
+      <ul>
+        <li>Tim Berners-Lee, "The World Wide Web", 1989</li>
+        <li>Mosaic Browser History</li>
+        <li>Modern Web Browser Features</li>
+      </ul>
+
+      <h2>Additional Resources</h2>
+      <ul>
+        <li><a href="https://www.w3.org/standards/webdesign/htmlcss">W3C Web Standards</a></li>
+        <li><a href="https://developer.mozilla.org/en-US/docs/Web">MDN Web Docs</a></li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>Created by: Joshua Cody</p>
+  </footer>
+</body>
+</html>
+

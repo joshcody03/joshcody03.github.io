@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Evolution of Web Browsers</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Evolution of Web Browsers</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="topic1.html">The First Web Browser</a></li>
+        <li><a href="topic2.html">Evolution of Web Browsers</a></li>
+        <li><a href="resources.html">References and Resources</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>The Rise of Graphical Browsers</h2>
+      <p>The evolution of browsers began with text-based interfaces like Nexus and quickly moved to graphical interfaces with the introduction of Mosaic. This enabled users to see both images and text on the same page.</p>
+
+      <h2>Popular Browsers Over Time</h2>
+      <ul>
+        <li>Internet Explorer</li>
+        <li>Firefox</li>
+        <li>Google Chrome</li>
+        <li>Safari</li>
+        <li>Microsoft Edge</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>Created by: Joshua Cody</p>
+  </footer>
+</body>
+</html>
